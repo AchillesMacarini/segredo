@@ -1,0 +1,10 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Cabeçalho com link para o GitHub</title>
+  </head>
+  <body>
+    <h1>Para você saber a resposta para esse problema, você tem que descobrir o nome do primeiro e único rei e dono de todo o mundo</h1>
+    <p><a href="https://github.com/AchillesMacarini/segredo/blob/main/[nome aqui].png">https://github.com/AchillesMacarini/segredo/blob/main/[nome aqui].png</a></p>
+  </body>
+</html>
